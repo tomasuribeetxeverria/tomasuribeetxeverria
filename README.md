@@ -4,7 +4,7 @@
 <img src="githubprofiletomasprueba.png">
 
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/tomasuribeetxeverria)
+
 
 
 ## Sobre mi
